@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color:#B7E859;
+  padding:25px;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 22px;
+  text-decoration: none;
+  font-size: 17px;
+  margin-left:30px;
+}
+
+.topnav a:hover {
+  color:black;
+  color: black;
+}
+
+.topnav a.active {
+  background-color:
+  color: white;
+}
+
+.topnav-right {
+  float: right;
+}
+
+
+.para{
+	background-color:#B7E859;
+}
+.chotu{
+	background-color:#b4d674;
+	margin-top: -10px;
+}
+
+
+
+.btn-default {
+	margin-top:20px;
+    color: #333;
+    background-color:white;
+    border-color: black;
+	border-radius:10px;
+}
+
+.pic{
+	padding:20px;
+	margin-top:40px;
+}
+
+
+
+
+.bunty{
+
+background-image:url(imag/pic5.jpg);
+height:350px;
+margin-top:0px;
+}
+
+ .bunty h1{
+	
+	text-align:center;
+	color:white;
+	font-size:80px;
+}
+.content{
+	background-color:#eceff1;
+}
+.icon{
+	padding:20px;
+	margin-top:40px;
+	margin-left:135px;
+}
+
+.satyam{
+	
+	
+	background-image:url(imag/pic8.jpg);
+height:600px;
+
+width:100%;
+}
+	
+	.satyam h1{
+		color:white;
+		font-size:70px;
+		text-align:center;
+		margin-top:30px;
+	}
+.satyam h2{
+	color:white;
+}
+.slider{
+	background-color:#f2f2f2;
+	margin-top:-18px;
+	font-size:55px;
+	
+}
+
+
+
+
+body{
+	width:100%;
+	
+	font-family: 'Roboto Condensed', sans-serif;
+	
+}
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: -4px;
+    
+	    font-size: 51px;
+}
+
+
+
+p{
+	margin:0 0 25px;
+	font-size:18px;
+	line-height:1.0em;
+}
+a{
+	color:#26a5d3;
+}
+a:hover,a:focus{
+	text-decoration:none;
+	color:black;
+}
+
+#contact{
+	background:#8c9c82;
+	color:black;
+	padding-bottom:30px;
+}
